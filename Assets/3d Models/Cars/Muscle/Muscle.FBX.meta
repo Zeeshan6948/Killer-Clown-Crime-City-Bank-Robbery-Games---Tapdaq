@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: aa5a912d945cc694b9d4a361a9ea9b9f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Muscle_Bamper_Back
+    100004: Muscle_Bamper_Front
+    100006: Muscle_Body
+    100008: Muscle_Body_Lod
+    100010: Muscle_Body_Physics
+    100012: Muscle_Dick_Left_Back
+    100014: Muscle_Dick_Left_Front
+    100016: Muscle_Dick_Right_Back
+    100018: Muscle_Dick_Right_Front
+    100020: Muscle_Dno
+    100022: Muscle_Door_Left
+    100024: Muscle_Door_Right
+    100026: Muscle_Hood_Back
+    100028: Muscle_Hood_Front
+    100030: Muscle_Light_Back_Left
+    100032: Muscle_Light_Back_Right
+    100034: Muscle_Light_Front_Left
+    100036: Muscle_Light_Front_Right
+    100038: Muscle_Salon
+    100040: Muscle_Shadow_Lod
+    100042: Muscle_Steering_Wheel
+    100044: Muscle_Tire_Left_Backq
+    100046: Muscle_Tire_Left_Font
+    100048: Muscle_Tire_Right_Back
+    100050: Muscle_Tire_Right_Front
+    100052: Muscle_Win_Back
+    100054: Muscle_Win_Door_Left
+    100056: Muscle_Win_Door_Right
+    100058: Muscle_Win_Front
+    100060: Muscle_Win_Left
+    100062: Muscle_Win_Right
+    100064: Muscle_Wing_Left
+    100066: Muscle_Wing_Right
+    400000: //RootNode
+    400002: Muscle_Bamper_Back
+    400004: Muscle_Bamper_Front
+    400006: Muscle_Body
+    400008: Muscle_Body_Lod
+    400010: Muscle_Body_Physics
+    400012: Muscle_Dick_Left_Back
+    400014: Muscle_Dick_Left_Front
+    400016: Muscle_Dick_Right_Back
+    400018: Muscle_Dick_Right_Front
+    400020: Muscle_Dno
+    400022: Muscle_Door_Left
+    400024: Muscle_Door_Right
+    400026: Muscle_Hood_Back
+    400028: Muscle_Hood_Front
+    400030: Muscle_Light_Back_Left
+    400032: Muscle_Light_Back_Right
+    400034: Muscle_Light_Front_Left
+    400036: Muscle_Light_Front_Right
+    400038: Muscle_Salon
+    400040: Muscle_Shadow_Lod
+    400042: Muscle_Steering_Wheel
+    400044: Muscle_Tire_Left_Backq
+    400046: Muscle_Tire_Left_Font
+    400048: Muscle_Tire_Right_Back
+    400050: Muscle_Tire_Right_Front
+    400052: Muscle_Win_Back
+    400054: Muscle_Win_Door_Left
+    400056: Muscle_Win_Door_Right
+    400058: Muscle_Win_Front
+    400060: Muscle_Win_Left
+    400062: Muscle_Win_Right
+    400064: Muscle_Wing_Left
+    400066: Muscle_Wing_Right
+    2300000: Muscle_Bamper_Back
+    2300002: Muscle_Bamper_Front
+    2300004: Muscle_Body
+    2300006: Muscle_Body_Lod
+    2300008: Muscle_Body_Physics
+    2300010: Muscle_Dick_Left_Back
+    2300012: Muscle_Dick_Left_Front
+    2300014: Muscle_Dick_Right_Back
+    2300016: Muscle_Dick_Right_Front
+    2300018: Muscle_Dno
+    2300020: Muscle_Door_Left
+    2300022: Muscle_Door_Right
+    2300024: Muscle_Hood_Back
+    2300026: Muscle_Hood_Front
+    2300028: Muscle_Light_Back_Left
+    2300030: Muscle_Light_Back_Right
+    2300032: Muscle_Light_Front_Left
+    2300034: Muscle_Light_Front_Right
+    2300036: Muscle_Salon
+    2300038: Muscle_Shadow_Lod
+    2300040: Muscle_Steering_Wheel
+    2300042: Muscle_Tire_Left_Backq
+    2300044: Muscle_Tire_Left_Font
+    2300046: Muscle_Tire_Right_Back
+    2300048: Muscle_Tire_Right_Front
+    2300050: Muscle_Win_Back
+    2300052: Muscle_Win_Door_Left
+    2300054: Muscle_Win_Door_Right
+    2300056: Muscle_Win_Front
+    2300058: Muscle_Win_Left
+    2300060: Muscle_Win_Right
+    2300062: Muscle_Wing_Left
+    2300064: Muscle_Wing_Right
+    3300000: Muscle_Bamper_Back
+    3300002: Muscle_Bamper_Front
+    3300004: Muscle_Body
+    3300006: Muscle_Body_Lod
+    3300008: Muscle_Body_Physics
+    3300010: Muscle_Dick_Left_Back
+    3300012: Muscle_Dick_Left_Front
+    3300014: Muscle_Dick_Right_Back
+    3300016: Muscle_Dick_Right_Front
+    3300018: Muscle_Dno
+    3300020: Muscle_Door_Left
+    3300022: Muscle_Door_Right
+    3300024: Muscle_Hood_Back
+    3300026: Muscle_Hood_Front
+    3300028: Muscle_Light_Back_Left
+    3300030: Muscle_Light_Back_Right
+    3300032: Muscle_Light_Front_Left
+    3300034: Muscle_Light_Front_Right
+    3300036: Muscle_Salon
+    3300038: Muscle_Shadow_Lod
+    3300040: Muscle_Steering_Wheel
+    3300042: Muscle_Tire_Left_Backq
+    3300044: Muscle_Tire_Left_Font
+    3300046: Muscle_Tire_Right_Back
+    3300048: Muscle_Tire_Right_Front
+    3300050: Muscle_Win_Back
+    3300052: Muscle_Win_Door_Left
+    3300054: Muscle_Win_Door_Right
+    3300056: Muscle_Win_Front
+    3300058: Muscle_Win_Left
+    3300060: Muscle_Win_Right
+    3300062: Muscle_Wing_Left
+    3300064: Muscle_Wing_Right
+    4300000: Muscle_Body_Lod
+    4300002: Muscle_Hood_Front
+    4300004: Muscle_Bamper_Back
+    4300006: Muscle_Hood_Back
+    4300008: Muscle_Bamper_Front
+    4300010: Muscle_Wing_Left
+    4300012: Muscle_Wing_Right
+    4300014: Muscle_Door_Left
+    4300016: Muscle_Door_Right
+    4300018: Muscle_Shadow_Lod
+    4300020: Muscle_Body_Physics
+    4300022: Muscle_Win_Front
+    4300024: Muscle_Win_Left
+    4300026: Muscle_Win_Door_Left
+    4300028: Muscle_Win_Back
+    4300030: Muscle_Win_Right
+    4300032: Muscle_Win_Door_Right
+    4300034: Muscle_Body
+    4300036: Muscle_Dno
+    4300038: Muscle_Salon
+    4300040: Muscle_Light_Front_Right
+    4300042: Muscle_Light_Front_Left
+    4300044: Muscle_Light_Back_Right
+    4300046: Muscle_Light_Back_Left
+    4300048: Muscle_Tire_Left_Font
+    4300050: Muscle_Dick_Left_Front
+    4300052: Muscle_Dick_Right_Front
+    4300054: Muscle_Tire_Right_Front
+    4300056: Muscle_Dick_Left_Back
+    4300058: Muscle_Dick_Right_Back
+    4300060: Muscle_Tire_Right_Back
+    4300062: Muscle_Tire_Left_Backq
+    4300064: Muscle_Steering_Wheel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camao_Seat
+    second: {fileID: 2100000, guid: 1ed0a75097b5641478d3b8e1ee70751c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Body
+    second: {fileID: 2100000, guid: fe45adec41a69584397d1b2f1c3b2b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Botton
+    second: {fileID: 2100000, guid: ec601389b4230cb409ace06305f74922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Exhaust_Pipe
+    second: {fileID: 2100000, guid: 54b171c2efdc8be45bc0c97c055ae3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Grid
+    second: {fileID: 2100000, guid: 5dcf3d5c2782dcc44ab00c0060765f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Insade
+    second: {fileID: 2100000, guid: 473cd43d65a0031478a8d603b58337e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Light
+    second: {fileID: 2100000, guid: d93d06672ef83844aa5a43fa9455bfe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Mirror
+    second: {fileID: 2100000, guid: 18d22a5d6a756dc44a60988952c25bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Plastics
+    second: {fileID: 2100000, guid: b928806d230809e4aa85b153001a85fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Salon
+    second: {fileID: 2100000, guid: b3a103ad57090cb4aa22c930e3e2e587, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Spring
+    second: {fileID: 2100000, guid: e7b41fa352e47c84fbc69039bd3239ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Wheel
+    second: {fileID: 2100000, guid: 51846d66ab4be4843b0898c5d9c4765e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camaro_Windows
+    second: {fileID: 2100000, guid: 86994bb04f357f34fb7b7c9544f9170e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steering
+    second: {fileID: 2100000, guid: f014f06430c5af44b83cb018ce87458f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 9de04d69aaadf174c9db4f686d7977c4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

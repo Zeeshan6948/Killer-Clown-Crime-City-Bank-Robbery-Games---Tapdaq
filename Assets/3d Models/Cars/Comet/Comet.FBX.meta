@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 2de71c654058bc94b89f4a1e5d214caf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Comet_Bamper_Back
+    100004: Comet_Bamper_Front
+    100006: Comet_Body
+    100008: Comet_Body_Lod
+    100010: Comet_Body_Physics
+    100012: Comet_Bottom
+    100014: Comet_Dick_Left_Back
+    100016: Comet_Dick_Left_Front
+    100018: Comet_Dick_Right_Back
+    100020: Comet_Dick_Right_Front
+    100022: Comet_Door_Left
+    100024: Comet_Door_Right
+    100026: Comet_Hood_Back
+    100028: Comet_Hood_Front
+    100030: Comet_Light_Front_Left
+    100032: Comet_Light_Front_Right
+    100034: Comet_Lights_Back
+    100036: Comet_Ligths_Back_Left
+    100038: Comet_Ligths_Back_Right
+    100040: Comet_Salon
+    100042: Comet_Shadow_Lod
+    100044: Comet_Steering_Wheel
+    100046: Comet_Tire_Left_Backq
+    100048: Comet_Tire_Left_Font
+    100050: Comet_Tire_Right_Back
+    100052: Comet_Tire_Right_Front
+    100054: Comet_Win_Back
+    100056: Comet_Win_Door_Left
+    100058: Comet_Win_Door_Right
+    100060: Comet_Win_Front
+    100062: Comet_Win_Left
+    100064: Comet_Win_Light_Left
+    100066: Comet_Win_Light_Right
+    100068: Comet_Win_Right
+    100070: Comet_Wing_Left
+    100072: Comet_Wing_Right
+    400000: //RootNode
+    400002: Comet_Bamper_Back
+    400004: Comet_Bamper_Front
+    400006: Comet_Body
+    400008: Comet_Body_Lod
+    400010: Comet_Body_Physics
+    400012: Comet_Bottom
+    400014: Comet_Dick_Left_Back
+    400016: Comet_Dick_Left_Front
+    400018: Comet_Dick_Right_Back
+    400020: Comet_Dick_Right_Front
+    400022: Comet_Door_Left
+    400024: Comet_Door_Right
+    400026: Comet_Hood_Back
+    400028: Comet_Hood_Front
+    400030: Comet_Light_Front_Left
+    400032: Comet_Light_Front_Right
+    400034: Comet_Lights_Back
+    400036: Comet_Ligths_Back_Left
+    400038: Comet_Ligths_Back_Right
+    400040: Comet_Salon
+    400042: Comet_Shadow_Lod
+    400044: Comet_Steering_Wheel
+    400046: Comet_Tire_Left_Backq
+    400048: Comet_Tire_Left_Font
+    400050: Comet_Tire_Right_Back
+    400052: Comet_Tire_Right_Front
+    400054: Comet_Win_Back
+    400056: Comet_Win_Door_Left
+    400058: Comet_Win_Door_Right
+    400060: Comet_Win_Front
+    400062: Comet_Win_Left
+    400064: Comet_Win_Light_Left
+    400066: Comet_Win_Light_Right
+    400068: Comet_Win_Right
+    400070: Comet_Wing_Left
+    400072: Comet_Wing_Right
+    2100000: Supra_Body
+    2100002: Supra_Chrome
+    2100004: Supra_Plastics
+    2100006: Supra_Lights
+    2100008: 'Material #21457'
+    2100010: Supra_Wheel
+    2100012: Supra_Insade
+    2100014: Supra_Corbon
+    2100016: 'Material #21662'
+    2100018: Supra_Salon
+    2100020: Supra_Bottom
+    2100022: Supra_Spring
+    2100024: Supra_Tube
+    2100026: Supra_Seat
+    2100028: Steering
+    2300000: Comet_Bamper_Back
+    2300002: Comet_Bamper_Front
+    2300004: Comet_Body
+    2300006: Comet_Body_Lod
+    2300008: Comet_Body_Physics
+    2300010: Comet_Bottom
+    2300012: Comet_Dick_Left_Back
+    2300014: Comet_Dick_Left_Front
+    2300016: Comet_Dick_Right_Back
+    2300018: Comet_Dick_Right_Front
+    2300020: Comet_Door_Left
+    2300022: Comet_Door_Right
+    2300024: Comet_Hood_Back
+    2300026: Comet_Hood_Front
+    2300028: Comet_Light_Front_Left
+    2300030: Comet_Light_Front_Right
+    2300032: Comet_Lights_Back
+    2300034: Comet_Ligths_Back_Left
+    2300036: Comet_Ligths_Back_Right
+    2300038: Comet_Salon
+    2300040: Comet_Shadow_Lod
+    2300042: Comet_Steering_Wheel
+    2300044: Comet_Tire_Left_Backq
+    2300046: Comet_Tire_Left_Font
+    2300048: Comet_Tire_Right_Back
+    2300050: Comet_Tire_Right_Front
+    2300052: Comet_Win_Back
+    2300054: Comet_Win_Door_Left
+    2300056: Comet_Win_Door_Right
+    2300058: Comet_Win_Front
+    2300060: Comet_Win_Left
+    2300062: Comet_Win_Light_Left
+    2300064: Comet_Win_Light_Right
+    2300066: Comet_Win_Right
+    2300068: Comet_Wing_Left
+    2300070: Comet_Wing_Right
+    3300000: Comet_Bamper_Back
+    3300002: Comet_Bamper_Front
+    3300004: Comet_Body
+    3300006: Comet_Body_Lod
+    3300008: Comet_Body_Physics
+    3300010: Comet_Bottom
+    3300012: Comet_Dick_Left_Back
+    3300014: Comet_Dick_Left_Front
+    3300016: Comet_Dick_Right_Back
+    3300018: Comet_Dick_Right_Front
+    3300020: Comet_Door_Left
+    3300022: Comet_Door_Right
+    3300024: Comet_Hood_Back
+    3300026: Comet_Hood_Front
+    3300028: Comet_Light_Front_Left
+    3300030: Comet_Light_Front_Right
+    3300032: Comet_Lights_Back
+    3300034: Comet_Ligths_Back_Left
+    3300036: Comet_Ligths_Back_Right
+    3300038: Comet_Salon
+    3300040: Comet_Shadow_Lod
+    3300042: Comet_Steering_Wheel
+    3300044: Comet_Tire_Left_Backq
+    3300046: Comet_Tire_Left_Font
+    3300048: Comet_Tire_Right_Back
+    3300050: Comet_Tire_Right_Front
+    3300052: Comet_Win_Back
+    3300054: Comet_Win_Door_Left
+    3300056: Comet_Win_Door_Right
+    3300058: Comet_Win_Front
+    3300060: Comet_Win_Left
+    3300062: Comet_Win_Light_Left
+    3300064: Comet_Win_Light_Right
+    3300066: Comet_Win_Right
+    3300068: Comet_Wing_Left
+    3300070: Comet_Wing_Right
+    4300000: Comet_Body_Lod
+    4300002: Comet_Body_Physics
+    4300004: Comet_Shadow_Lod
+    4300006: Comet_Bamper_Front
+    4300008: Comet_Hood_Front
+    4300010: Comet_Wing_Right
+    4300012: Comet_Door_Right
+    4300014: Comet_Bamper_Back
+    4300016: Comet_Hood_Back
+    4300018: Comet_Door_Left
+    4300020: Comet_Wing_Left
+    4300022: Comet_Win_Right
+    4300024: Comet_Win_Left
+    4300026: Comet_Win_Door_Right
+    4300028: Comet_Win_Door_Left
+    4300030: Comet_Win_Front
+    4300032: Comet_Win_Back
+    4300034: Comet_Win_Light_Left
+    4300036: Comet_Win_Light_Right
+    4300038: Comet_Body
+    4300040: Comet_Bottom
+    4300042: Comet_Salon
+    4300044: Comet_Ligths_Back_Left
+    4300046: Comet_Lights_Back
+    4300048: Comet_Ligths_Back_Right
+    4300050: Comet_Light_Front_Right
+    4300052: Comet_Light_Front_Left
+    4300054: Comet_Tire_Left_Font
+    4300056: Comet_Dick_Left_Front
+    4300058: Comet_Dick_Right_Front
+    4300060: Comet_Tire_Right_Front
+    4300062: Comet_Dick_Left_Back
+    4300064: Comet_Dick_Right_Back
+    4300066: Comet_Tire_Right_Back
+    4300068: Comet_Tire_Left_Backq
+    4300070: Comet_Steering_Wheel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #21457'
+    second: {fileID: 2100000, guid: bb8092afa543dcf40b08adcafb05f3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #21662'
+    second: {fileID: 2100000, guid: cd5a714ae6799dc4989e82281f625d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steering
+    second: {fileID: 2100000, guid: 016afcfa973cd0c42983f74f966543f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Body
+    second: {fileID: 2100000, guid: 52e0e05bdd6bedd4ca42810d1711006f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Bottom
+    second: {fileID: 2100000, guid: 10b6108ccd44b1f4bb9794c9fff56bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Chrome
+    second: {fileID: 2100000, guid: 7dadd98775a09a94ba14d3d6a9148168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Corbon
+    second: {fileID: 2100000, guid: ac5e7001bac79ee4dbbc35bb96cf384b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Insade
+    second: {fileID: 2100000, guid: 67f830c5456611746abf64f701553b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Lights
+    second: {fileID: 2100000, guid: 934c173064cbf9746bfdfcb8dfa7e44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Plastics
+    second: {fileID: 2100000, guid: 55b57a10e61b65448a997b884f8e644f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Salon
+    second: {fileID: 2100000, guid: ce2f4324499571e4296d2a47af30cba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Seat
+    second: {fileID: 2100000, guid: 9816b5b5ab50e65489f6296bcb9e73e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Spring
+    second: {fileID: 2100000, guid: 0b93703dbf9a53941a3ee4c8937f2744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Tube
+    second: {fileID: 2100000, guid: 3ee52422f412f264a96d59059013d28c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra_Wheel
+    second: {fileID: 2100000, guid: 59923f4718e4d064793862bfee04879b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

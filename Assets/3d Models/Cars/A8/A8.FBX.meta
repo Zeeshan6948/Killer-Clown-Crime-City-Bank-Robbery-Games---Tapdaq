@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: c020988e9aee0ed4b99a5265c678fc8e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A8_Bamper_Back
+    100004: A8_Bamper_Front
+    100006: A8_Body
+    100008: A8_Body_Lod
+    100010: A8_Body_Physics
+    100012: A8_Dick_Left_Back
+    100014: A8_Dick_Left_Front
+    100016: A8_Dick_Right_Back
+    100018: A8_Dick_Right_Front
+    100020: A8_Door_Left
+    100022: A8_Door_Right
+    100024: A8_Hood_Back
+    100026: A8_Hood_Front
+    100028: A8_Lights_Back
+    100030: A8_Lights_Left_Back
+    100032: A8_Lights_Left_Front
+    100034: A8_Lights_Right_Back
+    100036: A8_Lights_Right_Front
+    100038: A8_Salon
+    100040: A8_Shadow_Lod
+    100042: A8_Steering_Wheel
+    100044: A8_Tire_Left_Backq
+    100046: A8_Tire_Left_Font
+    100048: A8_Tire_Right_Back
+    100050: A8_Tire_Right_Front
+    100052: A8_Win2
+    100054: A8_Win_Back
+    100056: A8_Win_Front
+    100058: A8_Win_Left_Door
+    100060: A8_Win_Left_Light_Back
+    100062: A8_Win_Left_Light_Front
+    100064: A8_Win_Right_Door
+    100066: A8_Win_Right_Light_Back
+    100068: A8_Win_Right_Light_Front
+    400000: //RootNode
+    400002: A8_Bamper_Back
+    400004: A8_Bamper_Front
+    400006: A8_Body
+    400008: A8_Body_Lod
+    400010: A8_Body_Physics
+    400012: A8_Dick_Left_Back
+    400014: A8_Dick_Left_Front
+    400016: A8_Dick_Right_Back
+    400018: A8_Dick_Right_Front
+    400020: A8_Door_Left
+    400022: A8_Door_Right
+    400024: A8_Hood_Back
+    400026: A8_Hood_Front
+    400028: A8_Lights_Back
+    400030: A8_Lights_Left_Back
+    400032: A8_Lights_Left_Front
+    400034: A8_Lights_Right_Back
+    400036: A8_Lights_Right_Front
+    400038: A8_Salon
+    400040: A8_Shadow_Lod
+    400042: A8_Steering_Wheel
+    400044: A8_Tire_Left_Backq
+    400046: A8_Tire_Left_Font
+    400048: A8_Tire_Right_Back
+    400050: A8_Tire_Right_Front
+    400052: A8_Win2
+    400054: A8_Win_Back
+    400056: A8_Win_Front
+    400058: A8_Win_Left_Door
+    400060: A8_Win_Left_Light_Back
+    400062: A8_Win_Left_Light_Front
+    400064: A8_Win_Right_Door
+    400066: A8_Win_Right_Light_Back
+    400068: A8_Win_Right_Light_Front
+    2300000: A8_Bamper_Back
+    2300002: A8_Bamper_Front
+    2300004: A8_Body
+    2300006: A8_Body_Lod
+    2300008: A8_Body_Physics
+    2300010: A8_Dick_Left_Back
+    2300012: A8_Dick_Left_Front
+    2300014: A8_Dick_Right_Back
+    2300016: A8_Dick_Right_Front
+    2300018: A8_Door_Left
+    2300020: A8_Door_Right
+    2300022: A8_Hood_Back
+    2300024: A8_Hood_Front
+    2300026: A8_Lights_Back
+    2300028: A8_Lights_Left_Back
+    2300030: A8_Lights_Left_Front
+    2300032: A8_Lights_Right_Back
+    2300034: A8_Lights_Right_Front
+    2300036: A8_Salon
+    2300038: A8_Shadow_Lod
+    2300040: A8_Steering_Wheel
+    2300042: A8_Tire_Left_Backq
+    2300044: A8_Tire_Left_Font
+    2300046: A8_Tire_Right_Back
+    2300048: A8_Tire_Right_Front
+    2300050: A8_Win2
+    2300052: A8_Win_Back
+    2300054: A8_Win_Front
+    2300056: A8_Win_Left_Door
+    2300058: A8_Win_Left_Light_Back
+    2300060: A8_Win_Left_Light_Front
+    2300062: A8_Win_Right_Door
+    2300064: A8_Win_Right_Light_Back
+    2300066: A8_Win_Right_Light_Front
+    3300000: A8_Bamper_Back
+    3300002: A8_Bamper_Front
+    3300004: A8_Body
+    3300006: A8_Body_Lod
+    3300008: A8_Body_Physics
+    3300010: A8_Dick_Left_Back
+    3300012: A8_Dick_Left_Front
+    3300014: A8_Dick_Right_Back
+    3300016: A8_Dick_Right_Front
+    3300018: A8_Door_Left
+    3300020: A8_Door_Right
+    3300022: A8_Hood_Back
+    3300024: A8_Hood_Front
+    3300026: A8_Lights_Back
+    3300028: A8_Lights_Left_Back
+    3300030: A8_Lights_Left_Front
+    3300032: A8_Lights_Right_Back
+    3300034: A8_Lights_Right_Front
+    3300036: A8_Salon
+    3300038: A8_Shadow_Lod
+    3300040: A8_Steering_Wheel
+    3300042: A8_Tire_Left_Backq
+    3300044: A8_Tire_Left_Font
+    3300046: A8_Tire_Right_Back
+    3300048: A8_Tire_Right_Front
+    3300050: A8_Win2
+    3300052: A8_Win_Back
+    3300054: A8_Win_Front
+    3300056: A8_Win_Left_Door
+    3300058: A8_Win_Left_Light_Back
+    3300060: A8_Win_Left_Light_Front
+    3300062: A8_Win_Right_Door
+    3300064: A8_Win_Right_Light_Back
+    3300066: A8_Win_Right_Light_Front
+    4300000: A8_Body_Lod
+    4300002: A8_Body_Physics
+    4300004: A8_Shadow_Lod
+    4300006: A8_Salon
+    4300008: A8_Door_Left
+    4300010: A8_Door_Right
+    4300012: A8_Bamper_Front
+    4300014: A8_Body
+    4300016: A8_Hood_Front
+    4300018: A8_Bamper_Back
+    4300020: A8_Hood_Back
+    4300022: A8_Win_Back
+    4300024: A8_Win_Front
+    4300026: A8_Win_Left_Door
+    4300028: A8_Win_Left_Light_Back
+    4300030: A8_Win_Left_Light_Front
+    4300032: A8_Win_Right_Door
+    4300034: A8_Win_Right_Light_Back
+    4300036: A8_Win_Right_Light_Front
+    4300038: A8_Win2
+    4300040: A8_Lights_Back
+    4300042: A8_Lights_Left_Back
+    4300044: A8_Lights_Left_Front
+    4300046: A8_Lights_Right_Back
+    4300048: A8_Lights_Right_Front
+    4300050: A8_Tire_Left_Font
+    4300052: A8_Dick_Left_Front
+    4300054: A8_Dick_Right_Front
+    4300056: A8_Tire_Right_Front
+    4300058: A8_Dick_Left_Back
+    4300060: A8_Dick_Right_Back
+    4300062: A8_Tire_Right_Back
+    4300064: A8_Tire_Left_Backq
+    4300066: A8_Steering_Wheel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body Telo
+    second: {fileID: 2100000, guid: 0e5a83dd7b37e594d9db7ac4198a880d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Det_inside
+    second: {fileID: 2100000, guid: dd10f89efe548e1428c035cea66da29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: d186b71105cecdd4686ed6236c5db3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grid
+    second: {fileID: 2100000, guid: d0615fff936218b45ae1b95c4113783c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: e3dc8769550d1cc4d9930bad2b501e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ligth
+    second: {fileID: 2100000, guid: 5b9de8324d379c84b9ead90d08f255ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 94b9bd8e7326169459c38ef3b0221a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rul
+    second: {fileID: 2100000, guid: 46f05891a56f68148a19a0c2a2223a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sal
+    second: {fileID: 2100000, guid: 7e01e3efc60d97b45b361bf2a5121b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sid
+    second: {fileID: 2100000, guid: d42c8bebbea43034f94b14427902cd83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steering
+    second: {fileID: 2100000, guid: baa459c633fcbe2448e90d9e4913cb1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 5a48c9e2d24327240add81cc000d26c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Win1
+    second: {fileID: 2100000, guid: cb6616c9662349242bf2f2b3f08b0a45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Win2
+    second: {fileID: 2100000, guid: 0b662799600d9ad4a841a04b3346fa63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dno2
+    second: {fileID: 2100000, guid: d65f2075d5967324690c4b7c7a2df5aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+the plugin works on file link of json in a specific formate
+there are two scripts JsonController should on the first scene and only provide link of Json to it.
+the adgetter script is for the image where ad should appear for that use Image and button and drop the script over it and you can give a specifc index for ad to show or may choose random.
+
+
+example of Data formate style
+
+
+{
+    "Items": [
+        {
+            "Link": "Associated Link",
+            "PicLink": "Image Link"
+        },
+        {
+            "Link": "Associated Link",
+            "PicLink": "Image Link"
+        }
+    ]
+}
